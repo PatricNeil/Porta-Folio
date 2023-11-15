@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    background-image: url("/img/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+@media screen and (min-width:0) {
+    body{
+        height: calc(100vh - 0px);
+    }
+}

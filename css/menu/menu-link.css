@@ -1,0 +1,9 @@
+.menu__link{
+    color: white;
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+.menu__link:hover{
+    color: aquamarine;
+}
